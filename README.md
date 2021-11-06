@@ -5,9 +5,11 @@
 # Results: 
 
   ## How is the district summary affected?
-
-     
+   
+   Before:  
    ![District_Analysis-Before](Resources/District_Analysis-Before.PNG) 
+
+   After
 
    ![District_Analysis-After](Resources/District_Analysis-After.PNG) 
 
@@ -30,7 +32,11 @@
        
   ## How is the school summary affected?
 
+   Before:
+
    ![School_Summary-Before](Resources/School_Summary-Before.PNG) 
+
+   After: 
    ![School_Summary-After](Resources/School_Summary-After.PNG) 
 
     Thomas High School Overall passing percentage decreased from 90 to 65
