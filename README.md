@@ -5,8 +5,12 @@
 # Results: 
 
   ## How is the district summary affected?
-     ![District_Analysis-Before](Resources/District_Analysis-Before.PNG) 
-     ![District_Analysis-After](Resources/District_Analysis-After.PNG) 
+
+     
+   ![District_Analysis-Before](Resources/District_Analysis-Before.PNG) 
+
+   ![District_Analysis-After](Resources/District_Analysis-After.PNG) 
+
 
      ### Average Math Score
          Minimal decrease (Less that 1%) after removing 9th grade(Thomas High School) math scores
